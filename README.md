@@ -1,4 +1,4 @@
-#Sokoban: Age of Snakes
+# Sokoban: Age of Snakes
 
 
 This game was created as final project for Object Programming course by two students of Information Technology on Poznań
